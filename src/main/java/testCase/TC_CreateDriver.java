@@ -5,7 +5,7 @@ import java.util.HashMap;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import utils.ExcelDataProvider;
+
 import utils.TestConfiguration;
 import webservices.DriverService;
 import wrappers.ProjectWrappers;
